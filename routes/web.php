@@ -44,6 +44,6 @@ Route::middleware(LogRequests::class)->group(function () {
     })->name('lab3');
 
     Route::get('/lab4', function () {
-        return view('4');
+        return view('lab4');
     })->name('lab4');
 });

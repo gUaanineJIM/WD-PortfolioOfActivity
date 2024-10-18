@@ -3,7 +3,7 @@
 @section('content')
 <section class="section">
     <div class="container">
-        <h2 class="section-title">Laboratory 3 LAYOUT <br> Gallery</h2>
+        <h2 class="section-title">Laboratory 4 MIDDLEWARE <br> Gallery</h2>
         <div class="projects-list">
             <div class="project-card" style="background-color: #f8f5fb">
                 <a href="{{ asset('images/midd1.png') }}" target="_blank">
